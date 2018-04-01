@@ -1,0 +1,8 @@
+{
+    "name": "power_path",
+    "version": "0.0.1",
+    "factorio_version": "0.16",
+    "title": "PowerPath",
+    "description": "Power poles that you can walk on!",
+    "dependencies": ["base", "? resistive_load"]
+}
